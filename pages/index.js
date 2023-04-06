@@ -41,8 +41,8 @@ function App() {
         <div className="col-md-9 ">
           <Menu
             onBlockIntersection={onBlockIntersection}
-            // containerClassName="container"
-            indicatorTopPostion={60}
+            // // containerClassName="container"
+            // indicatorTopPostion={60}
             activeSection={activeTab}
             action={menuRef}
           >
